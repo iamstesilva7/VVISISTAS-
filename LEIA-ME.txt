@@ -1,0 +1,16 @@
+CONTROLE DE VISITAS — DEMONSTRAÇÃO
+
+COMO TESTAR NO COMPUTADOR
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Escolha o perfil de Diretor ou uma Regional e clique em Entrar.
+4. Registre uma visita e confira os indicadores, a última visita e o histórico.
+
+NO CELULAR
+A forma mais simples é publicar os arquivos em uma hospedagem HTTPS. Um ZIP aberto diretamente no iPhone não se instala como aplicativo. Esta demonstração é uma página local para validar as telas e o fluxo.
+
+IMPORTANTE
+Os dados ficam no armazenamento local do navegador. Perfis são apenas uma simulação, sem senha ou autenticação. Usuários em aparelhos diferentes não compartilham os registros. A lista de lojas e responsáveis foi fornecida para este teste; confirme os dados antes da versão definitiva. Não use dados operacionais reais nesta demonstração.
+
+PARA A VERSÃO COMPARTILHADA
+Precisaremos da lista oficial de lojas com código, nome e regional; os dez usuários e seus perfis; regras de periodicidade; e definição de quem pode ver ou editar visitas. A versão em produção exigirá hospedagem HTTPS, autenticação e banco de dados.
